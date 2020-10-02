@@ -1,2 +1,5 @@
-# Horiseon
-Week 2 Homework, Code Refractor
+# Horiseon Online Media Marketing and Management
+
+## Description
+
+

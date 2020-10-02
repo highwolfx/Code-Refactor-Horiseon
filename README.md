@@ -12,7 +12,7 @@ After cloning the repo, run the index.HTML file to view the website.
 
 ## Usage
 
-Other than scrolling to view the page, there are 3 hyperlinks at the top of the page that can be clicked to jump to the correspoding sections that are [boxed in red](https://github.com/highwolfx/Code-Refactor-Horiseon/blob/main/assets/examples/hyperlink-example.png).
+Deployed webpage can be found [here](https://highwolfx.github.io/Code-Refactor-Horiseon/). Other than scrolling to view the page, there are 3 hyperlinks at the top of the page that can be clicked to jump to the correspoding sections that are [boxed in red](https://github.com/highwolfx/Code-Refactor-Horiseon/blob/main/assets/examples/hyperlink-example.png).
 <p align="center">
     <img alt="hyperlink example" src="https://raw.githubusercontent.com/highwolfx/Code-Refactor-Horiseon/main/assets/examples/hyperlink-example.png">
 </p>
